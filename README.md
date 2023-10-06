@@ -1,3 +1,8 @@
+#Nota de atualização:
+Versão 1.1.4
+*Adição do período de solicitação do mês 09/2023.
+
+
 # Seletor Inteligente de Dados (SID)
 
 O Seletor Inteligente de Dados (SID) é um sistema que facilita o preenchimento automático do campo de dados final em uma página da web, permitindo economizar tempo e evitar erros ao realizar essa tarefa repetitiva manualmente.
